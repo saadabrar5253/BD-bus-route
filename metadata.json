@@ -1,0 +1,10 @@
+{
+  "name": "Bangladesh Bus Route",
+  "description": "Find Your Bus. Know Your Route. Go Anywhere. Verified bus routes, stops, direct and transfer route finder, interactive maps, emergency services, and nearby places across Bangladesh.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

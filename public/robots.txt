@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://bangladesh-bus-route.netlify.app/sitemap.xml

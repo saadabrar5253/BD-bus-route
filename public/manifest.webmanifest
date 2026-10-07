@@ -1,0 +1,22 @@
+{
+  "short_name": "BD Bus Route",
+  "name": "Bangladesh Bus Route",
+  "description": "Find Your Bus. Know Your Route. Go Anywhere. Verified bus routes, stops, and emergency navigation in Bangladesh.",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#006a4e",
+  "theme_color": "#006a4e",
+  "display": "standalone",
+  "orientation": "portrait"
+}
